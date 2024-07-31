@@ -24,7 +24,7 @@ class Automate:
 
             # Close the browser
             driver.quit()
-            return "ok"
+            return "ok new"
 
         except Exception as e:
             print(f"An error occurred: {e}")
